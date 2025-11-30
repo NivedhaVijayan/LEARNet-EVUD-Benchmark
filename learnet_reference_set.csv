@@ -1,0 +1,201 @@
+reference_id,image_path,bbox_x,bbox_y,bbox_width,bbox_height,pedagogical_class,class_id,embedding_path,metadata,annotator_id,validation_status
+REF_001,./reference_frames/lecture2/frame_1001.png,56,314,460,126,slide_title,1,./embeddings/ref_001_embed.npy,"Font: Arial, Size: 40pt",A2,validated
+REF_002,./reference_frames/lecture3/frame_1002.png,61,172,240,98,diagram,2,./embeddings/ref_002_embed.npy,Type: Flowchart,A3,validated
+REF_003,./reference_frames/lecture4/frame_1003.png,110,324,393,137,formula,3,./embeddings/ref_003_embed.npy,Complexity: Medium,A1,validated
+REF_004,./reference_frames/lecture5/frame_1004.png,328,308,563,324,table,4,./embeddings/ref_004_embed.npy,"Rows: 5, Columns: 4",A2,validated
+REF_005,./reference_frames/lecture6/frame_1005.png,172,118,368,371,figure,5,./embeddings/ref_005_embed.npy,Type: Graph,A3,validated
+REF_006,./reference_frames/lecture7/frame_1006.png,349,200,391,111,handwritten_text,6,./embeddings/ref_006_embed.npy,Ink color: Black,A1,validated
+REF_007,./reference_frames/lecture8/frame_1007.png,59,308,212,283,text_block,7,./embeddings/ref_007_embed.npy,Alignment: Justified,A2,validated
+REF_008,./reference_frames/lecture9/frame_1008.png,90,185,412,154,code_block,8,./embeddings/ref_008_embed.npy,Language: Python,A3,validated
+REF_009,./reference_frames/lecture10/frame_1009.png,199,323,368,116,slide_title,1,./embeddings/ref_009_embed.npy,"Font: Arial, Size: 40pt",A1,validated
+REF_010,./reference_frames/lecture11/frame_1010.png,266,318,291,128,diagram,2,./embeddings/ref_010_embed.npy,Type: Flowchart,A2,validated
+REF_011,./reference_frames/lecture12/frame_1011.png,199,75,202,382,formula,3,./embeddings/ref_011_embed.npy,Complexity: Medium,A3,validated
+REF_012,./reference_frames/lecture1/frame_1012.png,248,55,268,183,table,4,./embeddings/ref_012_embed.npy,"Rows: 5, Columns: 4",A1,validated
+REF_013,./reference_frames/lecture2/frame_1013.png,109,101,572,241,figure,5,./embeddings/ref_013_embed.npy,Type: Graph,A2,validated
+REF_014,./reference_frames/lecture3/frame_1014.png,243,316,375,150,handwritten_text,6,./embeddings/ref_014_embed.npy,Ink color: Black,A3,validated
+REF_015,./reference_frames/lecture4/frame_1015.png,368,103,388,126,text_block,7,./embeddings/ref_015_embed.npy,Alignment: Justified,A1,validated
+REF_016,./reference_frames/lecture5/frame_1016.png,91,43,688,230,code_block,8,./embeddings/ref_016_embed.npy,Language: Python,A2,validated
+REF_017,./reference_frames/lecture6/frame_1017.png,82,253,322,261,slide_title,1,./embeddings/ref_017_embed.npy,"Font: Arial, Size: 40pt",A3,validated
+REF_018,./reference_frames/lecture7/frame_1018.png,105,142,569,156,diagram,2,./embeddings/ref_018_embed.npy,Type: Flowchart,A1,validated
+REF_019,./reference_frames/lecture8/frame_1019.png,287,106,497,178,formula,3,./embeddings/ref_019_embed.npy,Complexity: Medium,A2,validated
+REF_020,./reference_frames/lecture9/frame_1020.png,219,302,468,239,table,4,./embeddings/ref_020_embed.npy,"Rows: 5, Columns: 4",A3,validated
+REF_021,./reference_frames/lecture10/frame_1021.png,129,291,529,382,figure,5,./embeddings/ref_021_embed.npy,Type: Graph,A1,validated
+REF_022,./reference_frames/lecture11/frame_1022.png,210,118,584,364,handwritten_text,6,./embeddings/ref_022_embed.npy,Ink color: Black,A2,validated
+REF_023,./reference_frames/lecture12/frame_1023.png,258,219,505,288,text_block,7,./embeddings/ref_023_embed.npy,Alignment: Justified,A3,validated
+REF_024,./reference_frames/lecture1/frame_1024.png,99,102,520,120,code_block,8,./embeddings/ref_024_embed.npy,Language: Python,A1,validated
+REF_025,./reference_frames/lecture2/frame_1025.png,309,207,593,148,slide_title,1,./embeddings/ref_025_embed.npy,"Font: Arial, Size: 40pt",A2,validated
+REF_026,./reference_frames/lecture3/frame_1026.png,365,106,672,155,diagram,2,./embeddings/ref_026_embed.npy,Type: Flowchart,A3,validated
+REF_027,./reference_frames/lecture4/frame_1027.png,209,100,620,233,formula,3,./embeddings/ref_027_embed.npy,Complexity: Medium,A1,validated
+REF_028,./reference_frames/lecture5/frame_1028.png,334,335,648,323,table,4,./embeddings/ref_028_embed.npy,"Rows: 5, Columns: 4",A2,validated
+REF_029,./reference_frames/lecture6/frame_1029.png,213,245,226,172,figure,5,./embeddings/ref_029_embed.npy,Type: Graph,A3,validated
+REF_030,./reference_frames/lecture7/frame_1030.png,124,33,529,343,handwritten_text,6,./embeddings/ref_030_embed.npy,Ink color: Black,A1,validated
+REF_031,./reference_frames/lecture8/frame_1031.png,373,236,296,311,text_block,7,./embeddings/ref_031_embed.npy,Alignment: Justified,A2,validated
+REF_032,./reference_frames/lecture9/frame_1032.png,397,32,508,257,code_block,8,./embeddings/ref_032_embed.npy,Language: Python,A3,validated
+REF_033,./reference_frames/lecture10/frame_1033.png,269,286,222,134,slide_title,1,./embeddings/ref_033_embed.npy,"Font: Arial, Size: 40pt",A1,validated
+REF_034,./reference_frames/lecture11/frame_1034.png,86,55,554,134,diagram,2,./embeddings/ref_034_embed.npy,Type: Flowchart,A2,validated
+REF_035,./reference_frames/lecture12/frame_1035.png,218,297,547,102,formula,3,./embeddings/ref_035_embed.npy,Complexity: Medium,A3,validated
+REF_036,./reference_frames/lecture1/frame_1036.png,291,284,396,122,table,4,./embeddings/ref_036_embed.npy,"Rows: 5, Columns: 4",A1,validated
+REF_037,./reference_frames/lecture2/frame_1037.png,342,78,666,318,figure,5,./embeddings/ref_037_embed.npy,Type: Graph,A2,validated
+REF_038,./reference_frames/lecture3/frame_1038.png,82,49,354,92,handwritten_text,6,./embeddings/ref_038_embed.npy,Ink color: Black,A3,validated
+REF_039,./reference_frames/lecture4/frame_1039.png,90,61,504,236,text_block,7,./embeddings/ref_039_embed.npy,Alignment: Justified,A1,validated
+REF_040,./reference_frames/lecture5/frame_1040.png,105,143,404,186,code_block,8,./embeddings/ref_040_embed.npy,Language: Python,A2,validated
+REF_041,./reference_frames/lecture6/frame_1041.png,187,336,493,250,slide_title,1,./embeddings/ref_041_embed.npy,"Font: Arial, Size: 40pt",A3,validated
+REF_042,./reference_frames/lecture7/frame_1042.png,278,228,671,307,diagram,2,./embeddings/ref_042_embed.npy,Type: Flowchart,A1,validated
+REF_043,./reference_frames/lecture8/frame_1043.png,361,195,675,297,formula,3,./embeddings/ref_043_embed.npy,Complexity: Medium,A2,validated
+REF_044,./reference_frames/lecture9/frame_1044.png,337,330,528,187,table,4,./embeddings/ref_044_embed.npy,"Rows: 5, Columns: 4",A3,validated
+REF_045,./reference_frames/lecture10/frame_1045.png,244,256,212,145,figure,5,./embeddings/ref_045_embed.npy,Type: Graph,A1,validated
+REF_046,./reference_frames/lecture11/frame_1046.png,111,103,659,258,handwritten_text,6,./embeddings/ref_046_embed.npy,Ink color: Black,A2,validated
+REF_047,./reference_frames/lecture12/frame_1047.png,354,109,554,241,text_block,7,./embeddings/ref_047_embed.npy,Alignment: Justified,A3,validated
+REF_048,./reference_frames/lecture1/frame_1048.png,379,230,669,167,code_block,8,./embeddings/ref_048_embed.npy,Language: Python,A1,validated
+REF_049,./reference_frames/lecture2/frame_1049.png,339,296,565,224,slide_title,1,./embeddings/ref_049_embed.npy,"Font: Arial, Size: 40pt",A2,validated
+REF_050,./reference_frames/lecture3/frame_1050.png,314,30,200,373,diagram,2,./embeddings/ref_050_embed.npy,Type: Flowchart,A3,validated
+REF_051,./reference_frames/lecture4/frame_1051.png,394,279,663,341,formula,3,./embeddings/ref_051_embed.npy,Complexity: Medium,A1,validated
+REF_052,./reference_frames/lecture5/frame_1052.png,359,151,267,133,table,4,./embeddings/ref_052_embed.npy,"Rows: 5, Columns: 4",A2,validated
+REF_053,./reference_frames/lecture6/frame_1053.png,303,330,345,83,figure,5,./embeddings/ref_053_embed.npy,Type: Graph,A3,validated
+REF_054,./reference_frames/lecture7/frame_1054.png,234,74,550,179,handwritten_text,6,./embeddings/ref_054_embed.npy,Ink color: Black,A1,validated
+REF_055,./reference_frames/lecture8/frame_1055.png,155,223,593,326,text_block,7,./embeddings/ref_055_embed.npy,Alignment: Justified,A2,validated
+REF_056,./reference_frames/lecture9/frame_1056.png,396,296,266,281,code_block,8,./embeddings/ref_056_embed.npy,Language: Python,A3,validated
+REF_057,./reference_frames/lecture10/frame_1057.png,86,276,522,136,slide_title,1,./embeddings/ref_057_embed.npy,"Font: Arial, Size: 40pt",A1,validated
+REF_058,./reference_frames/lecture11/frame_1058.png,216,224,627,310,diagram,2,./embeddings/ref_058_embed.npy,Type: Flowchart,A2,validated
+REF_059,./reference_frames/lecture12/frame_1059.png,90,193,211,371,formula,3,./embeddings/ref_059_embed.npy,Complexity: Medium,A3,validated
+REF_060,./reference_frames/lecture1/frame_1060.png,227,242,661,356,table,4,./embeddings/ref_060_embed.npy,"Rows: 5, Columns: 4",A1,validated
+REF_061,./reference_frames/lecture2/frame_1061.png,231,178,604,253,figure,5,./embeddings/ref_061_embed.npy,Type: Graph,A2,validated
+REF_062,./reference_frames/lecture3/frame_1062.png,67,213,220,124,handwritten_text,6,./embeddings/ref_062_embed.npy,Ink color: Black,A3,validated
+REF_063,./reference_frames/lecture4/frame_1063.png,306,220,417,298,text_block,7,./embeddings/ref_063_embed.npy,Alignment: Justified,A1,validated
+REF_064,./reference_frames/lecture5/frame_1064.png,396,275,264,230,code_block,8,./embeddings/ref_064_embed.npy,Language: Python,A2,validated
+REF_065,./reference_frames/lecture6/frame_1065.png,141,311,354,217,slide_title,1,./embeddings/ref_065_embed.npy,"Font: Arial, Size: 40pt",A3,validated
+REF_066,./reference_frames/lecture7/frame_1066.png,62,50,446,98,diagram,2,./embeddings/ref_066_embed.npy,Type: Flowchart,A1,validated
+REF_067,./reference_frames/lecture8/frame_1067.png,151,234,370,284,formula,3,./embeddings/ref_067_embed.npy,Complexity: Medium,A2,validated
+REF_068,./reference_frames/lecture9/frame_1068.png,332,93,306,361,table,4,./embeddings/ref_068_embed.npy,"Rows: 5, Columns: 4",A3,validated
+REF_069,./reference_frames/lecture10/frame_1069.png,287,251,256,277,figure,5,./embeddings/ref_069_embed.npy,Type: Graph,A1,validated
+REF_070,./reference_frames/lecture11/frame_1070.png,120,306,406,98,handwritten_text,6,./embeddings/ref_070_embed.npy,Ink color: Black,A2,validated
+REF_071,./reference_frames/lecture12/frame_1071.png,200,282,433,385,text_block,7,./embeddings/ref_071_embed.npy,Alignment: Justified,A3,validated
+REF_072,./reference_frames/lecture1/frame_1072.png,100,225,423,392,code_block,8,./embeddings/ref_072_embed.npy,Language: Python,A1,validated
+REF_073,./reference_frames/lecture2/frame_1073.png,150,138,368,293,slide_title,1,./embeddings/ref_073_embed.npy,"Font: Arial, Size: 40pt",A2,validated
+REF_074,./reference_frames/lecture3/frame_1074.png,54,218,560,331,diagram,2,./embeddings/ref_074_embed.npy,Type: Flowchart,A3,validated
+REF_075,./reference_frames/lecture4/frame_1075.png,67,171,508,315,formula,3,./embeddings/ref_075_embed.npy,Complexity: Medium,A1,validated
+REF_076,./reference_frames/lecture5/frame_1076.png,326,237,618,297,table,4,./embeddings/ref_076_embed.npy,"Rows: 5, Columns: 4",A2,validated
+REF_077,./reference_frames/lecture6/frame_1077.png,255,132,513,192,figure,5,./embeddings/ref_077_embed.npy,Type: Graph,A3,validated
+REF_078,./reference_frames/lecture7/frame_1078.png,365,31,365,108,handwritten_text,6,./embeddings/ref_078_embed.npy,Ink color: Black,A1,validated
+REF_079,./reference_frames/lecture8/frame_1079.png,386,282,466,254,text_block,7,./embeddings/ref_079_embed.npy,Alignment: Justified,A2,validated
+REF_080,./reference_frames/lecture9/frame_1080.png,53,33,392,258,code_block,8,./embeddings/ref_080_embed.npy,Language: Python,A3,validated
+REF_081,./reference_frames/lecture10/frame_1081.png,56,208,688,166,slide_title,1,./embeddings/ref_081_embed.npy,"Font: Arial, Size: 40pt",A1,validated
+REF_082,./reference_frames/lecture11/frame_1082.png,255,291,328,124,diagram,2,./embeddings/ref_082_embed.npy,Type: Flowchart,A2,validated
+REF_083,./reference_frames/lecture12/frame_1083.png,328,153,580,249,formula,3,./embeddings/ref_083_embed.npy,Complexity: Medium,A3,validated
+REF_084,./reference_frames/lecture1/frame_1084.png,80,160,508,343,table,4,./embeddings/ref_084_embed.npy,"Rows: 5, Columns: 4",A1,validated
+REF_085,./reference_frames/lecture2/frame_1085.png,143,156,604,226,figure,5,./embeddings/ref_085_embed.npy,Type: Graph,A2,validated
+REF_086,./reference_frames/lecture3/frame_1086.png,253,118,410,371,handwritten_text,6,./embeddings/ref_086_embed.npy,Ink color: Black,A3,validated
+REF_087,./reference_frames/lecture4/frame_1087.png,377,138,234,298,text_block,7,./embeddings/ref_087_embed.npy,Alignment: Justified,A1,validated
+REF_088,./reference_frames/lecture5/frame_1088.png,88,112,361,284,code_block,8,./embeddings/ref_088_embed.npy,Language: Python,A2,validated
+REF_089,./reference_frames/lecture6/frame_1089.png,266,154,557,333,slide_title,1,./embeddings/ref_089_embed.npy,"Font: Arial, Size: 40pt",A3,validated
+REF_090,./reference_frames/lecture7/frame_1090.png,297,240,693,362,diagram,2,./embeddings/ref_090_embed.npy,Type: Flowchart,A1,validated
+REF_091,./reference_frames/lecture8/frame_1091.png,233,225,211,274,formula,3,./embeddings/ref_091_embed.npy,Complexity: Medium,A2,validated
+REF_092,./reference_frames/lecture9/frame_1092.png,221,337,588,128,table,4,./embeddings/ref_092_embed.npy,"Rows: 5, Columns: 4",A3,validated
+REF_093,./reference_frames/lecture10/frame_1093.png,265,300,657,168,figure,5,./embeddings/ref_093_embed.npy,Type: Graph,A1,validated
+REF_094,./reference_frames/lecture11/frame_1094.png,136,189,425,162,handwritten_text,6,./embeddings/ref_094_embed.npy,Ink color: Black,A2,validated
+REF_095,./reference_frames/lecture12/frame_1095.png,73,139,276,131,text_block,7,./embeddings/ref_095_embed.npy,Alignment: Justified,A3,validated
+REF_096,./reference_frames/lecture1/frame_1096.png,102,233,496,381,code_block,8,./embeddings/ref_096_embed.npy,Language: Python,A1,validated
+REF_097,./reference_frames/lecture2/frame_1097.png,319,321,399,276,slide_title,1,./embeddings/ref_097_embed.npy,"Font: Arial, Size: 40pt",A2,validated
+REF_098,./reference_frames/lecture3/frame_1098.png,333,282,386,156,diagram,2,./embeddings/ref_098_embed.npy,Type: Flowchart,A3,validated
+REF_099,./reference_frames/lecture4/frame_1099.png,267,178,340,100,formula,3,./embeddings/ref_099_embed.npy,Complexity: Medium,A1,validated
+REF_100,./reference_frames/lecture5/frame_1100.png,203,269,590,366,table,4,./embeddings/ref_100_embed.npy,"Rows: 5, Columns: 4",A2,validated
+REF_101,./reference_frames/lecture6/frame_1101.png,201,81,295,345,figure,5,./embeddings/ref_101_embed.npy,Type: Graph,A3,validated
+REF_102,./reference_frames/lecture7/frame_1102.png,285,69,597,342,handwritten_text,6,./embeddings/ref_102_embed.npy,Ink color: Black,A1,validated
+REF_103,./reference_frames/lecture8/frame_1103.png,377,316,203,267,text_block,7,./embeddings/ref_103_embed.npy,Alignment: Justified,A2,validated
+REF_104,./reference_frames/lecture9/frame_1104.png,244,280,601,323,code_block,8,./embeddings/ref_104_embed.npy,Language: Python,A3,validated
+REF_105,./reference_frames/lecture10/frame_1105.png,170,349,670,191,slide_title,1,./embeddings/ref_105_embed.npy,"Font: Arial, Size: 40pt",A1,validated
+REF_106,./reference_frames/lecture11/frame_1106.png,234,221,485,312,diagram,2,./embeddings/ref_106_embed.npy,Type: Flowchart,A2,validated
+REF_107,./reference_frames/lecture12/frame_1107.png,199,79,602,353,formula,3,./embeddings/ref_107_embed.npy,Complexity: Medium,A3,validated
+REF_108,./reference_frames/lecture1/frame_1108.png,131,102,587,202,table,4,./embeddings/ref_108_embed.npy,"Rows: 5, Columns: 4",A1,validated
+REF_109,./reference_frames/lecture2/frame_1109.png,180,61,352,329,figure,5,./embeddings/ref_109_embed.npy,Type: Graph,A2,validated
+REF_110,./reference_frames/lecture3/frame_1110.png,218,213,507,199,handwritten_text,6,./embeddings/ref_110_embed.npy,Ink color: Black,A3,validated
+REF_111,./reference_frames/lecture4/frame_1111.png,60,73,222,212,text_block,7,./embeddings/ref_111_embed.npy,Alignment: Justified,A1,validated
+REF_112,./reference_frames/lecture5/frame_1112.png,290,55,269,338,code_block,8,./embeddings/ref_112_embed.npy,Language: Python,A2,validated
+REF_113,./reference_frames/lecture6/frame_1113.png,239,329,423,299,slide_title,1,./embeddings/ref_113_embed.npy,"Font: Arial, Size: 40pt",A3,validated
+REF_114,./reference_frames/lecture7/frame_1114.png,63,50,319,268,diagram,2,./embeddings/ref_114_embed.npy,Type: Flowchart,A1,validated
+REF_115,./reference_frames/lecture8/frame_1115.png,166,154,448,323,formula,3,./embeddings/ref_115_embed.npy,Complexity: Medium,A2,validated
+REF_116,./reference_frames/lecture9/frame_1116.png,133,69,225,82,table,4,./embeddings/ref_116_embed.npy,"Rows: 5, Columns: 4",A3,validated
+REF_117,./reference_frames/lecture10/frame_1117.png,253,331,561,215,figure,5,./embeddings/ref_117_embed.npy,Type: Graph,A1,validated
+REF_118,./reference_frames/lecture11/frame_1118.png,150,128,403,373,handwritten_text,6,./embeddings/ref_118_embed.npy,Ink color: Black,A2,validated
+REF_119,./reference_frames/lecture12/frame_1119.png,169,252,231,317,text_block,7,./embeddings/ref_119_embed.npy,Alignment: Justified,A3,validated
+REF_120,./reference_frames/lecture1/frame_1120.png,86,237,210,179,code_block,8,./embeddings/ref_120_embed.npy,Language: Python,A1,validated
+REF_121,./reference_frames/lecture2/frame_1121.png,55,334,321,180,slide_title,1,./embeddings/ref_121_embed.npy,"Font: Arial, Size: 40pt",A2,validated
+REF_122,./reference_frames/lecture3/frame_1122.png,233,270,377,235,diagram,2,./embeddings/ref_122_embed.npy,Type: Flowchart,A3,validated
+REF_123,./reference_frames/lecture4/frame_1123.png,318,174,430,105,formula,3,./embeddings/ref_123_embed.npy,Complexity: Medium,A1,validated
+REF_124,./reference_frames/lecture5/frame_1124.png,199,295,376,193,table,4,./embeddings/ref_124_embed.npy,"Rows: 5, Columns: 4",A2,validated
+REF_125,./reference_frames/lecture6/frame_1125.png,380,307,284,145,figure,5,./embeddings/ref_125_embed.npy,Type: Graph,A3,validated
+REF_126,./reference_frames/lecture7/frame_1126.png,317,296,673,254,handwritten_text,6,./embeddings/ref_126_embed.npy,Ink color: Black,A1,validated
+REF_127,./reference_frames/lecture8/frame_1127.png,378,213,682,369,text_block,7,./embeddings/ref_127_embed.npy,Alignment: Justified,A2,validated
+REF_128,./reference_frames/lecture9/frame_1128.png,380,145,372,288,code_block,8,./embeddings/ref_128_embed.npy,Language: Python,A3,validated
+REF_129,./reference_frames/lecture10/frame_1129.png,382,84,408,239,slide_title,1,./embeddings/ref_129_embed.npy,"Font: Arial, Size: 40pt",A1,validated
+REF_130,./reference_frames/lecture11/frame_1130.png,374,216,565,301,diagram,2,./embeddings/ref_130_embed.npy,Type: Flowchart,A2,validated
+REF_131,./reference_frames/lecture12/frame_1131.png,187,219,498,176,formula,3,./embeddings/ref_131_embed.npy,Complexity: Medium,A3,validated
+REF_132,./reference_frames/lecture1/frame_1132.png,355,170,569,181,table,4,./embeddings/ref_132_embed.npy,"Rows: 5, Columns: 4",A1,validated
+REF_133,./reference_frames/lecture2/frame_1133.png,290,335,452,236,figure,5,./embeddings/ref_133_embed.npy,Type: Graph,A2,validated
+REF_134,./reference_frames/lecture3/frame_1134.png,199,168,639,135,handwritten_text,6,./embeddings/ref_134_embed.npy,Ink color: Black,A3,validated
+REF_135,./reference_frames/lecture4/frame_1135.png,263,188,699,132,text_block,7,./embeddings/ref_135_embed.npy,Alignment: Justified,A1,validated
+REF_136,./reference_frames/lecture5/frame_1136.png,387,149,282,350,code_block,8,./embeddings/ref_136_embed.npy,Language: Python,A2,validated
+REF_137,./reference_frames/lecture6/frame_1137.png,387,65,268,220,slide_title,1,./embeddings/ref_137_embed.npy,"Font: Arial, Size: 40pt",A3,validated
+REF_138,./reference_frames/lecture7/frame_1138.png,292,342,579,347,diagram,2,./embeddings/ref_138_embed.npy,Type: Flowchart,A1,validated
+REF_139,./reference_frames/lecture8/frame_1139.png,223,169,640,194,formula,3,./embeddings/ref_139_embed.npy,Complexity: Medium,A2,validated
+REF_140,./reference_frames/lecture9/frame_1140.png,167,166,492,112,table,4,./embeddings/ref_140_embed.npy,"Rows: 5, Columns: 4",A3,validated
+REF_141,./reference_frames/lecture10/frame_1141.png,203,36,360,304,figure,5,./embeddings/ref_141_embed.npy,Type: Graph,A1,validated
+REF_142,./reference_frames/lecture11/frame_1142.png,244,160,204,122,handwritten_text,6,./embeddings/ref_142_embed.npy,Ink color: Black,A2,validated
+REF_143,./reference_frames/lecture12/frame_1143.png,79,101,320,198,text_block,7,./embeddings/ref_143_embed.npy,Alignment: Justified,A3,validated
+REF_144,./reference_frames/lecture1/frame_1144.png,235,220,656,200,code_block,8,./embeddings/ref_144_embed.npy,Language: Python,A1,validated
+REF_145,./reference_frames/lecture2/frame_1145.png,176,247,511,323,slide_title,1,./embeddings/ref_145_embed.npy,"Font: Arial, Size: 40pt",A2,validated
+REF_146,./reference_frames/lecture3/frame_1146.png,225,31,220,163,diagram,2,./embeddings/ref_146_embed.npy,Type: Flowchart,A3,validated
+REF_147,./reference_frames/lecture4/frame_1147.png,229,168,620,156,formula,3,./embeddings/ref_147_embed.npy,Complexity: Medium,A1,validated
+REF_148,./reference_frames/lecture5/frame_1148.png,138,100,492,126,table,4,./embeddings/ref_148_embed.npy,"Rows: 5, Columns: 4",A2,validated
+REF_149,./reference_frames/lecture6/frame_1149.png,297,344,611,320,figure,5,./embeddings/ref_149_embed.npy,Type: Graph,A3,validated
+REF_150,./reference_frames/lecture7/frame_1150.png,166,246,652,81,handwritten_text,6,./embeddings/ref_150_embed.npy,Ink color: Black,A1,validated
+REF_151,./reference_frames/lecture8/frame_1151.png,63,247,504,364,text_block,7,./embeddings/ref_151_embed.npy,Alignment: Justified,A2,validated
+REF_152,./reference_frames/lecture9/frame_1152.png,337,231,326,83,code_block,8,./embeddings/ref_152_embed.npy,Language: Python,A3,validated
+REF_153,./reference_frames/lecture10/frame_1153.png,59,71,368,253,slide_title,1,./embeddings/ref_153_embed.npy,"Font: Arial, Size: 40pt",A1,validated
+REF_154,./reference_frames/lecture11/frame_1154.png,289,119,572,114,diagram,2,./embeddings/ref_154_embed.npy,Type: Flowchart,A2,validated
+REF_155,./reference_frames/lecture12/frame_1155.png,266,153,542,219,formula,3,./embeddings/ref_155_embed.npy,Complexity: Medium,A3,validated
+REF_156,./reference_frames/lecture1/frame_1156.png,395,259,501,375,table,4,./embeddings/ref_156_embed.npy,"Rows: 5, Columns: 4",A1,validated
+REF_157,./reference_frames/lecture2/frame_1157.png,132,101,217,101,figure,5,./embeddings/ref_157_embed.npy,Type: Graph,A2,validated
+REF_158,./reference_frames/lecture3/frame_1158.png,309,325,219,295,handwritten_text,6,./embeddings/ref_158_embed.npy,Ink color: Black,A3,validated
+REF_159,./reference_frames/lecture4/frame_1159.png,177,107,303,169,text_block,7,./embeddings/ref_159_embed.npy,Alignment: Justified,A1,validated
+REF_160,./reference_frames/lecture5/frame_1160.png,132,240,634,205,code_block,8,./embeddings/ref_160_embed.npy,Language: Python,A2,validated
+REF_161,./reference_frames/lecture6/frame_1161.png,132,255,434,274,slide_title,1,./embeddings/ref_161_embed.npy,"Font: Arial, Size: 40pt",A3,validated
+REF_162,./reference_frames/lecture7/frame_1162.png,323,274,627,398,diagram,2,./embeddings/ref_162_embed.npy,Type: Flowchart,A1,validated
+REF_163,./reference_frames/lecture8/frame_1163.png,146,332,244,135,formula,3,./embeddings/ref_163_embed.npy,Complexity: Medium,A2,validated
+REF_164,./reference_frames/lecture9/frame_1164.png,277,197,425,155,table,4,./embeddings/ref_164_embed.npy,"Rows: 5, Columns: 4",A3,validated
+REF_165,./reference_frames/lecture10/frame_1165.png,330,215,633,128,figure,5,./embeddings/ref_165_embed.npy,Type: Graph,A1,validated
+REF_166,./reference_frames/lecture11/frame_1166.png,99,144,335,388,handwritten_text,6,./embeddings/ref_166_embed.npy,Ink color: Black,A2,validated
+REF_167,./reference_frames/lecture12/frame_1167.png,389,108,551,195,text_block,7,./embeddings/ref_167_embed.npy,Alignment: Justified,A3,validated
+REF_168,./reference_frames/lecture1/frame_1168.png,314,82,217,112,code_block,8,./embeddings/ref_168_embed.npy,Language: Python,A1,validated
+REF_169,./reference_frames/lecture2/frame_1169.png,296,66,573,296,slide_title,1,./embeddings/ref_169_embed.npy,"Font: Arial, Size: 40pt",A2,validated
+REF_170,./reference_frames/lecture3/frame_1170.png,139,236,245,381,diagram,2,./embeddings/ref_170_embed.npy,Type: Flowchart,A3,validated
+REF_171,./reference_frames/lecture4/frame_1171.png,142,265,508,217,formula,3,./embeddings/ref_171_embed.npy,Complexity: Medium,A1,validated
+REF_172,./reference_frames/lecture5/frame_1172.png,188,150,206,266,table,4,./embeddings/ref_172_embed.npy,"Rows: 5, Columns: 4",A2,validated
+REF_173,./reference_frames/lecture6/frame_1173.png,277,279,289,264,figure,5,./embeddings/ref_173_embed.npy,Type: Graph,A3,validated
+REF_174,./reference_frames/lecture7/frame_1174.png,356,245,256,234,handwritten_text,6,./embeddings/ref_174_embed.npy,Ink color: Black,A1,validated
+REF_175,./reference_frames/lecture8/frame_1175.png,212,267,421,326,text_block,7,./embeddings/ref_175_embed.npy,Alignment: Justified,A2,validated
+REF_176,./reference_frames/lecture9/frame_1176.png,343,198,206,86,code_block,8,./embeddings/ref_176_embed.npy,Language: Python,A3,validated
+REF_177,./reference_frames/lecture10/frame_1177.png,161,180,473,366,slide_title,1,./embeddings/ref_177_embed.npy,"Font: Arial, Size: 40pt",A1,validated
+REF_178,./reference_frames/lecture11/frame_1178.png,116,269,375,368,diagram,2,./embeddings/ref_178_embed.npy,Type: Flowchart,A2,validated
+REF_179,./reference_frames/lecture12/frame_1179.png,106,200,575,360,formula,3,./embeddings/ref_179_embed.npy,Complexity: Medium,A3,validated
+REF_180,./reference_frames/lecture1/frame_1180.png,143,140,467,377,table,4,./embeddings/ref_180_embed.npy,"Rows: 5, Columns: 4",A1,validated
+REF_181,./reference_frames/lecture2/frame_1181.png,345,118,434,131,figure,5,./embeddings/ref_181_embed.npy,Type: Graph,A2,validated
+REF_182,./reference_frames/lecture3/frame_1182.png,87,108,334,197,handwritten_text,6,./embeddings/ref_182_embed.npy,Ink color: Black,A3,validated
+REF_183,./reference_frames/lecture4/frame_1183.png,51,234,518,288,text_block,7,./embeddings/ref_183_embed.npy,Alignment: Justified,A1,validated
+REF_184,./reference_frames/lecture5/frame_1184.png,352,264,435,348,code_block,8,./embeddings/ref_184_embed.npy,Language: Python,A2,validated
+REF_185,./reference_frames/lecture6/frame_1185.png,78,306,230,238,slide_title,1,./embeddings/ref_185_embed.npy,"Font: Arial, Size: 40pt",A3,validated
+REF_186,./reference_frames/lecture7/frame_1186.png,327,203,563,319,diagram,2,./embeddings/ref_186_embed.npy,Type: Flowchart,A1,validated
+REF_187,./reference_frames/lecture8/frame_1187.png,373,138,479,311,formula,3,./embeddings/ref_187_embed.npy,Complexity: Medium,A2,validated
+REF_188,./reference_frames/lecture9/frame_1188.png,312,189,530,91,table,4,./embeddings/ref_188_embed.npy,"Rows: 5, Columns: 4",A3,validated
+REF_189,./reference_frames/lecture10/frame_1189.png,51,166,400,297,figure,5,./embeddings/ref_189_embed.npy,Type: Graph,A1,validated
+REF_190,./reference_frames/lecture11/frame_1190.png,159,332,488,173,handwritten_text,6,./embeddings/ref_190_embed.npy,Ink color: Black,A2,validated
+REF_191,./reference_frames/lecture12/frame_1191.png,115,252,531,118,text_block,7,./embeddings/ref_191_embed.npy,Alignment: Justified,A3,validated
+REF_192,./reference_frames/lecture1/frame_1192.png,344,214,352,330,code_block,8,./embeddings/ref_192_embed.npy,Language: Python,A1,validated
+REF_193,./reference_frames/lecture2/frame_1193.png,269,284,565,373,slide_title,1,./embeddings/ref_193_embed.npy,"Font: Arial, Size: 40pt",A2,validated
+REF_194,./reference_frames/lecture3/frame_1194.png,96,54,491,310,diagram,2,./embeddings/ref_194_embed.npy,Type: Flowchart,A3,validated
+REF_195,./reference_frames/lecture4/frame_1195.png,319,317,301,386,formula,3,./embeddings/ref_195_embed.npy,Complexity: Medium,A1,validated
+REF_196,./reference_frames/lecture5/frame_1196.png,79,222,253,293,table,4,./embeddings/ref_196_embed.npy,"Rows: 5, Columns: 4",A2,validated
+REF_197,./reference_frames/lecture6/frame_1197.png,259,246,585,304,figure,5,./embeddings/ref_197_embed.npy,Type: Graph,A3,validated
+REF_198,./reference_frames/lecture7/frame_1198.png,356,108,524,246,handwritten_text,6,./embeddings/ref_198_embed.npy,Ink color: Black,A1,validated
+REF_199,./reference_frames/lecture8/frame_1199.png,342,306,289,97,text_block,7,./embeddings/ref_199_embed.npy,Alignment: Justified,A2,validated
+REF_200,./reference_frames/lecture9/frame_1200.png,310,70,410,315,code_block,8,./embeddings/ref_200_embed.npy,Language: Python,A3,validated
